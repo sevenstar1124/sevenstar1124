@@ -1,7 +1,7 @@
-# 💯 **Vladyslav**, <span style="color:gray">Web Developer</span> 🎈
+# 💯 **Vladyslav**, Web Developer 🎈
 
-**My extensive experience with both frontend and backend technologies allows me to deliver seamless, end-to-end solutions that meet complex business needs.
-My problem-solving abilities, attention to detail, and capacity to work under pressure will keep making me an ideal candidate for any challenging full-stack development role.**
+My extensive experience with both **frontend** and **backend** technologies allows me to deliver seamless, end-to-end solutions that meet complex business needs.
+My **problem-solving abilities**, attention to detail, and capacity to work under pressure will keep making me an ideal candidate for any challenging **full-stack development** role.
 
 - 👯 I’m looking to collaborate with you.
 
