@@ -1,3 +1,4 @@
+![banner](assets/banner.png)
 <h1 align="center"> 💯 <strong>Vladyslav</strong>, Web Developer 🎈</h1>
 
 My extensive experience with both **frontend** and **backend** technologies allows me to deliver seamless, end-to-end solutions that meet complex business needs.
@@ -19,4 +20,3 @@ My **problem-solving abilities**, attention to detail, and capacity to work unde
 [![Tools](https://skillicons.dev/icons?i=figma,firebase,aws,azure,vercel,nginx,github,git,vscode,postman&perline=10)](#)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" style="width:100%;"/>
-
