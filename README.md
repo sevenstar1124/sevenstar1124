@@ -1,5 +1,5 @@
 ![banner](assets/banner.png)
-<h1 align="center"> 💯 <strong>Vladyslav</strong>, Web Developer 🎈</h1>
+<!-- <h1 align="center"> 💯 <strong>Vladyslav</strong>, Web Developer 🎈</h1> -->
 
 My extensive experience with both **frontend** and **backend** technologies allows me to deliver seamless, end-to-end solutions that meet complex business needs.
 My **problem-solving abilities**, attention to detail, and capacity to work under pressure will keep making me an ideal candidate for any challenging **full-stack development** role.
