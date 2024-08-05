@@ -19,4 +19,5 @@ My **problem-solving abilities**, attention to detail, and capacity to work unde
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Platforms and Tools**  
 [![Tools](https://skillicons.dev/icons?i=figma,firebase,aws,azure,vercel,nginx,github,git,vscode,postman&perline=10)](#)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" style="width:100%;"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" style="width:100%;"/> -->
+![footer](assets/footer.png)
