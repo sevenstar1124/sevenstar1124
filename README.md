@@ -6,7 +6,7 @@ My **problem-solving abilities**, attention to detail, and capacity to work unde
 - 👯 I’m looking to collaborate with you.
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> My Recent Projects 
-#### 1. ACME Dashboard(NextJS) [Preview](https://acme-nextjs-teal.vercel.app/dashboard)
+#### 1. ACME Dashboard(NextJS) [Preview](https://acme-nextjs-teal.vercel.app/)
 #### 2. Aurano(Laravel)
 #### 3. Orientation & Mobile Responsive Page(HTML/CSS)
 #### 4. Aimeos(Laravel)
